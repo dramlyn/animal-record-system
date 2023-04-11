@@ -1,0 +1,5 @@
+[
+    {"animalProperties":{"weight":"value1","height":"value"}},
+    {"animalProperties":{"weight":"value3","height":"value1"}},
+    {"animalProperties":{"weight":"value","height":"value"}}
+]

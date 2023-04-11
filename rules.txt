@@ -1,0 +1,8 @@
+[
+    {"mapRulePropertyToValue":{
+        "weight":[{"value":"value","toCount":true},{"value":"value1","toCount":true}],
+        "height":[{"value":"value","toCount":true}]}},
+    {"mapRulePropertyToValue":{
+        "weight":[{"value":"value","toCount":true},{"value":"value1","toCount":true}],
+        "height":[{"value":"value3","toCount":true}]}}
+]
