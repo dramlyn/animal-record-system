@@ -13,7 +13,7 @@ import java.util.Map;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-public class CountProcessorTest{
+public class CountAnimalsTest {
 
     private final CountProcessor countProcessor = new CountProcessor();
     private final Animal[] animals = setUpAnimals();
